@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lila">#cab5c9</color>
+    <color name="magenta">#703a44</color>
+    <color name="beige">#f8c592</color>
+    <color name="morado">#8e6995</color>
+    <color name="purpura">#aa8caf</color>
+    <color name="blanco_hueso">#f4f4f4</color>
+    <color name="negro_carbon">#191919</color>
+    <color name="crema">#FFF9EB</color>
+    <color name="lila_azulado">#6c4675</color>
+    <color name="crema_oscuro">#f0efcf</color>
+</resources>

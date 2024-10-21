@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para los text-->
+    <style name="EstiloTextosForlumarios">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/estilos_celdas</item>
+        <item name="android:ems">10</item>
+        <item name="android:fontFamily">@font/quicksand_light</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <!-- Estilo para los botones de formularios-->
+    <style name="EstiloBotonesFormularios">
+        <item name="android:layout_width">119dp</item>
+        <item name="android:layout_height">64dp</item>
+        <item name="android:layout_marginTop">28dp</item>
+        <item name="android:backgroundTint">@color/beige</item>
+        <item name="android:textColor">@color/magenta</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <!-- Estilo para los botones de productos-->
+    <style name="EstiloBotonesProductos">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:backgroundTint">@color/beige</item>
+        <item name="android:textColor">@color/negro_carbon</item>
+    </style>
+
+    <!-- Estilo para los botones de productos en el carrito-->
+    <style name="EstiloBotonesProductosCarrito">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:backgroundTint">@color/crema_oscuro</item>
+        <item name="android:textColor">@color/negro_carbon</item>
+    </style>
+
+    <!-- Estilo para los precios de productos-->
+    <style name="EstiloPreciosProductos">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/negro_carbon</item>
+    </style>
+
+    <!-- Estilo para los titulos de productos-->
+    <style name="EstiloTitulosProductos">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/negro_carbon</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Estilo para las imagenes de productos-->
+    <style name="EstiloImagenesProductos">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <!-- Estilo para las estrellas de productos-->
+    <style name="EstiloEstrellasProductos">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:max">5</item>
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">1</item>
+    </style>
+
+
+</resources>

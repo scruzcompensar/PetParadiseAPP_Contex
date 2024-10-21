@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">PetParadiseApp</string>
+
+    <!--Inicio Sección Login -->
+    <string name="usuario_login"> Ingrese su correo</string>
+    <string name="contrasena_login"> Ingrese su contraseña</string>
+    <string name="enviar_login"> Enviar</string>
+    <string name="madeBy"> U Compensar - By Santiago Cruz</string>
+    <string name="Registrar_login"><u>Registrarse</u></string>
+    <string name="Carrito"><u>Carrito de compras</u></string>
+    <!--Fin Sección Login -->
+
+    <!--Inicio Sección Login -->
+    <string name="titulo_registro"> Unéte a nuestra familia</string>
+    <string name="nombre_registro"> Ingrese su nombre</string>
+    <string name="apellidos_registro"> Ingrese sus apellidos</string>
+    <string name="celular_registro"> Ingrese su celular</string>
+    <string name="correo_registro"> Ingrese su correo</string>
+    <string name="contrasena_registro"> Ingrese su contraseña</string>
+    <string name="guardar_login"> Guardar</string>
+
+    <!--Fin Sección Login -->
+
+    <!--Inicio Sección Index -->
+    <string name="buscar_index"> ¿Qué estas buscando?</string>
+    <string name="btn_agregar_index"> Agregar al carrito</string>
+    <!--Inicio Producto 1 -->
+    <string name="producto1_titulo"> Chunky – pollo adultos </string>
+    <string name="producto1_precio"> $33.000</string>
+    <!--Fin Producto 1 -->
+
+    <!--Inicio Producto 2 -->
+    <string name="producto2_titulo"> Chunky – cordero arroz y salmon adulto </string>
+    <string name="producto2_precio"> $63.500</string>
+    <!--Fin Producto 2 -->
+
+    <!--Inicio Producto 3 -->
+    <string name="producto3_titulo"> Juguete para gato</string>
+    <string name="producto3_precio"> $3.500 unidad</string>
+    <!--Fin Producto 3 -->
+
+    <!--Inicio Producto 4 -->
+    <string name="producto4_titulo"> Juguete de goma para perros </string>
+    <string name="producto4_precio"> $15.600 unidad</string>
+    <!--Fin Producto 4 -->
+
+    <!--Inicio Producto 5 -->
+    <string name="producto5_titulo"> Casa para gatos </string>
+    <string name="producto5_precio"> $238.000</string>
+    <!--Fin Producto 5 -->
+
+    <!--Inicio Producto 6 -->
+    <string name="producto6_titulo"> Barras de zanahoria </string>
+    <string name="producto6_precio"> $47.850</string>
+    <!--Fin Producto 6 -->
+
+    <!--Inicio Producto 7 -->
+    <string name="producto7_titulo"> Chunky delicat trozos de pavo </string>
+    <string name="producto7_precio"> $3.600</string>
+    <!--Fin Producto 7 -->
+
+    <!--Inicio Producto 8 -->
+    <string name="producto8_titulo"> Cargador de mascotas </string>
+    <string name="producto8_precio"> $72.600</string>
+    <!--Fin Producto 8 -->
+
+    <!--Inicio Producto 9 -->
+    <string name="producto9_titulo"> Asuntol – Jabón para perros </string>
+    <string name="producto9_precio"> $12.800</string>
+    <!--Fin Producto 9 -->
+
+    <!--Inicio Producto 10 -->
+    <string name="producto10_titulo"> Gimnasio escalera para gatos </string>
+    <string name="producto10_precio"> $241.000</string>
+    <!--Fin Producto 10 -->
+
+    <!--Fin Sección Index -->
+
+    <!--Inicio Sección Carrito -->
+    <string name="total_precio_carrito"> Total</string>
+    <string name="envio_carrito"> Costo de envío</string>
+    <string name="finalizar_compra_carrito"> Finalizar compra</string>
+    <string name="eliminar_compra_carrito"> Eliminar</string>
+    <!--Fin Sección Carrito -->
+</resources>
