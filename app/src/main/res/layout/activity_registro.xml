@@ -20,24 +20,24 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/logo" />
 
-    <TextView
+    <EditText
         android:id="@+id/txt_Nombre_Registro"
         style="@style/EstiloTextosForlumarios"
-        android:layout_width="253dp"
-        android:layout_height="41dp"
+        android:layout_width="254dp"
+        android:layout_height="50dp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="24dp"
         android:hint="@string/nombre_registro"
         app:layout_constraintStart_toEndOf="@+id/imageView3"
         app:layout_constraintTop_toBottomOf="@+id/txt_titulo_registro" />
 
-    <TextView
+    <EditText
         android:id="@+id/txt_titulo_registro"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:fontFamily="@font/lilita_one"
-        android:text="@string/titulo_registro"
+        android:hint="@string/titulo_registro"
         android:textColor="@color/morado"
         android:textSize="28sp"
         android:textStyle="italic"
@@ -57,47 +57,47 @@
         app:layout_constraintTop_toBottomOf="@+id/txt_titulo_registro"
         app:srcCompat="@drawable/usuario" />
 
-    <TextView
+    <EditText
         android:id="@+id/txt_apellidos_registro"
         style="@style/EstiloTextosForlumarios"
-        android:layout_width="253dp"
-        android:layout_height="41dp"
+        android:layout_width="254dp"
+        android:layout_height="49dp"
         android:layout_marginStart="28dp"
         android:layout_marginTop="28dp"
-        android:text="@string/apellidos_registro"
+        android:hint="@string/apellidos_registro"
         app:layout_constraintStart_toEndOf="@+id/imageView7"
         app:layout_constraintTop_toBottomOf="@+id/txt_Nombre_Registro" />
 
-    <TextView
+    <EditText
         android:id="@+id/txt_celular_registro"
         style="@style/EstiloTextosForlumarios"
-        android:layout_width="253dp"
-        android:layout_height="41dp"
+        android:layout_width="255dp"
+        android:layout_height="49dp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="28dp"
-        android:text="@string/celular_registro"
+        android:hint="@string/celular_registro"
         app:layout_constraintStart_toEndOf="@+id/imageView4"
         app:layout_constraintTop_toBottomOf="@+id/txt_apellidos_registro" />
 
-    <TextView
+    <EditText
         android:id="@+id/txt_correo_registro"
         style="@style/EstiloTextosForlumarios"
-        android:layout_width="253dp"
-        android:layout_height="41dp"
+        android:layout_width="251dp"
+        android:layout_height="50dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="24dp"
-        android:text="@string/correo_registro"
+        android:hint="@string/correo_registro"
         app:layout_constraintStart_toEndOf="@+id/imageView6"
         app:layout_constraintTop_toBottomOf="@+id/txt_celular_registro" />
 
-    <TextView
+    <EditText
         android:id="@+id/txt_contrasena_registro"
         style="@style/EstiloTextosForlumarios"
-        android:layout_width="253dp"
-        android:layout_height="41dp"
+        android:layout_width="249dp"
+        android:layout_height="48dp"
         android:layout_marginStart="20dp"
         android:layout_marginTop="28dp"
-        android:text="@string/contrasena_registro"
+        android:hint="@string/contrasena_registro"
         app:layout_constraintStart_toEndOf="@+id/imageView5"
         app:layout_constraintTop_toBottomOf="@+id/txt_correo_registro" />
 
